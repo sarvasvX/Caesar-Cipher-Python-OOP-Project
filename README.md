@@ -1,6 +1,6 @@
 # Caesar-Cipher-Python-OOP-Project
 
-### Created a Caesar Cipher capable of encrypting a message, as well as decrypting an encrypted message.
+### This is a Caesar Cipher capable of encrypting a message, as well as decrypting an encrypted message.
 
 Challenge: Decrypt the story.txt file after coding the script
 
