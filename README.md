@@ -4,4 +4,4 @@
 
 ### Challenge: Decrypt the story.txt file after coding the script
 
-##### word.txt and story.txt file provided in the MITx 6.00.1x online course
+###### word.txt and story.txt files were provided in the MITx 6.00.1x online course
